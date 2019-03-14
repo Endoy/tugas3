@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://toekang-acian.netlify.com/"
 languageCode = "en-us"
-title = "PT Kuro-kuro"
+title = "PT Indodebu Tubruk"
 # themesDir = "../.."
 theme = "hugo-serif-theme"
 
